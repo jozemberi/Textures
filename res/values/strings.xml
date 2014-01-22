@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Teksture</string>
+    <string name="main">Računalna Grafika - OpenGL ES 2.0 - teksture</string>
+    <string name="play">Pokreni demonstraciju</string>
+    <string name="demo">Demonstracija - OpenGL ES 2.0 - teksture</string>
+    <string name="choose_floor_texture">Odabir teksture poda</string>
+    <string name="set_foi_texture_camera">Postavi teksturu Foi-a kamerom</string>
+    <string name="set_foi_texture_gallery">Postavi teksturu Foi-a odabirom slike iz galerije</string>
+    <string name="about_1">Ova aplikacija izrađena je u sklopu projekta iz kolegija Računalna Grafika.</string>
+    <string name="about_2">Tema projekta je OpenGL ES na Androidu - OpenGL ES 2.0 i 3.0 - teksture.</string>
+    <string name="about_3">Aplikacija demonstrira funkcionalnost OpenGL ES 2.0 tekstura na android 
+        pametnim telefonima na način da korisniku omogućava promjenu teksture poda i kocaka koje čine Foi.</string>
+    <string name="about_4">Kocke se preko touch evenata mogu rotirati.</string>
+    <string name="about_5">Teksture se mogu postaviti odabirom iz liste tekstura (za pod), korištenjem 
+        kamere ili galerije slika (za Foi).</string>
+
+    <string-array name="floor_textures">
+        <item>Tekstura 1</item>
+        <item>Tekstura 2</item>
+        <item>Tekstura 3</item>
+        <item>Tekstura 4</item>
+        <item>Tekstura 5</item>
+        <item>Tekstura 6</item>
+    </string-array>
+
+</resources>
